@@ -14,9 +14,9 @@ const About = () => {
                 <h2>About Me</h2>
                 <p><b>Hey,</b> <br /> My name is Najmul Hasan <span className='text-warning'><b>Na</b></span>, I'm a Freelancer Web Designer and WordPress Developer.
 
-                    My jobb iss tooo build your website so that it is functional and user-friendly but at the same time attractive. Keeping in mind scalability and clean code that is maintainable and readable.
+                    My job iss to build your website so that it is functional and user-friendly but at the same time attractive. Keeping in mind scalability and clean code that is maintainable and readable.
 
-                    I've workedd withh companies of all shapes and sizes, so contact me if you'd like to work together on your next project. By night as a Freelance Web Designer and Word Press Developer, I spend my time working on freelance projects and building my own products.</p>
+                    I've worked withh companies of all shapes and sizes, so contact me if you'd like to work together on your next project. By night as a Freelance Web Designer and Word Press Developer, I spend my time working on freelance projects and building my own products.</p>
             </div>
         </div>
     );
