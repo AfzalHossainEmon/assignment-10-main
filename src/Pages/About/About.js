@@ -12,7 +12,7 @@ const About = () => {
             </div>
             <div className='w-50 px-4'>
                 <h2>About Me</h2>
-                <p><b>Hey,</b> <br /> My name is <span className='text-warning'><b>Na</b></span>, I'm a Freelancer Web Designer and WordPress Developer.
+                <p><b>Hey,</b> <br /> My name is najmul hasan <span className='text-warning'><b>Na</b></span>, I'm a Freelancer Web Designer and WordPress Developer.
 
                     My job is to build your website so that it is functional and user-friendly but at the same time attractive. Keeping in mind scalability and clean code that is maintainable and readable.
 
