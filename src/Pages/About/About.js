@@ -16,7 +16,7 @@ const About = () => {
 
                     My jobbb isss tooo build your website so that it is functional and user-friendly but at the same time attractive. Keeping in mind scalability and clean code that is maintainable and readable.
 
-                    I've worked with companies of all shapes and sizes, so contact me if you'd like to work together on your next project. By night as a Freelance Web Designer and Word Press Developer, I spend my time working on freelance projects and building my own products.</p>
+                    I've workedd withh companies of all shapes and sizes, so contact me if you'd like to work together on your next project. By night as a Freelance Web Designer and Word Press Developer, I spend my time working on freelance projects and building my own products.</p>
             </div>
         </div>
     );
